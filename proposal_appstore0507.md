@@ -10,8 +10,10 @@ The major functionalities are fairly simple. App information will be provided in
 ### Todo List
 - [x] 
 Scrapy Crawler to download apps information from Huawei Appstore  "http://appstore.huawei.com/more/all"
-- [ ] 
+- [x] 
   Install MySQL and Tomcat in Eclipse or MyEclipse and import sql file
+- [x]
+  Deploy tempory version onto Heroku for public review, see https://spring-appstore.herokuapp.com/
 - [ ] 
  Implement Java Spring, Hibernate framwork for control layer, dispatcher servlet, core business logic layer, Database Access interface, DAO
 - [ ]
@@ -24,8 +26,8 @@ Use securing confined his shutters. Delightful as he it acceptance an solicitude
 | ------------- | ------------- | ------------- | ------------- |
 | 1 | 11/07/16  | 17/07/16  | Project Selection, Plan Discussion, and Proposal Draft Writing |
 | 2 | 18/07/16  | 24/07/16  | Team Build up, System Design, Resource Discovery, Project Implementation, Document Writing  |
-| 3 | 25/07/16  | 31/07/16  | 1st meet  |
-| 4 | 01/08/16  | 07/08/16  | 2nd meet  |
+| 3 | 25/07/16  | 31/07/16  | 1st meet  |  learn how to use tomcat, mysql, crawler
+| 4 | 01/08/16  | 07/08/16  | 2nd meet  |  learn to deploy our project onto heroku; wordload will be split into 3 major parts: front-end page,  java spring framework, crawler usage and store data into database format
 | 5 | 08/08/16  | 14/08/16  | 3rd meet  |
 | 6 | 15/08/16  | 21/08/16  | 4th meet  |
 | 7 | 22/08/16  | 28/08/16  | end meet  |
@@ -35,7 +37,8 @@ Use securing confined his shutters. Delightful as he it acceptance an solicitude
 - [project description](https://www.bittiger.io/microproject/2Ln4gW4vs9xCRc5qG)
 - [project github repo](https://github.com/BitTigerInst/AppStore0507)
 - [team](https://github.com/orgs/BitTigerInst/teams/appstore0507)
-- 
+
+
 ## License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
@@ -48,6 +51,7 @@ See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 > **Note:** 
 [爬虫](https://github.com/yueran/bittiger-scrapy-stackoverflow) 
 [参考项目](https://github.com/QunWu/AppStore_1_3)
+[heroku] (https://devcenter.heroku.com/articles/heroku-mysql, https://devcenter.heroku.com/articles/getting-started-with-spring-mvc-hibernate#build-your-app )
 
 >**category options:** 
 >full stack, Java Web
