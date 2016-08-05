@@ -51,7 +51,7 @@ See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 > **Note:** 
 [爬虫](https://github.com/yueran/bittiger-scrapy-stackoverflow) 
 [参考项目](https://github.com/QunWu/AppStore_1_3)
-[heroku] (https://devcenter.heroku.com/articles/heroku-mysql, https://devcenter.heroku.com/articles/getting-started-with-spring-mvc-hibernate#build-your-app)
+[heroku] (https://devcenter.heroku.com/articles/getting-started-with-spring-mvc-hibernate#build-your-app)
 
 >**category options:** 
 >full stack, Java Web
