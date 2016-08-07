@@ -10,8 +10,8 @@ the final interface will filter the home page to only show the top 10 apps;
 finally, if the user wishes to learn more about an app, they will be able to click on an app and be directed to a details page.
 
 
-##### deploy with heroku
-# reuse Spring MVC and Hibernate template application
+ 
+# deploy with heroku as a Spring MVC and Hibernate application
 
 This is a template for a web application that uses Spring MVC and Hibernate. The sample code is a simple CRUD page that manipulates records for a single model object.
 
